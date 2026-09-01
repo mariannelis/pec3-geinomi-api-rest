@@ -102,7 +102,15 @@ Se incluyen:
    - `NODE_ENV=production`
    - `JWT_SECRET`
 4. Probar la URL desplegada.
+URL:
+Repositorio GitHub:
+https://github.com/mariannelis/pec3-geinomi-api-rest
+
+API desplegada en Vercel:
+https://pec3-geinomi-api-rest.vercel.app
+
+Endpoint principal:
+https://pec3-geinomi-api-rest.vercel.app/api/products
 
 ## Seguridad
-
 No subir el archivo `.env` a GitHub. Solo se entrega `.env.example`.
